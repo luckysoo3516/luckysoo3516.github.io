@@ -1,7 +1,8 @@
 ---
 layout: post
-title : [Tutorial 따라하기] 로또 DApp 만들기 - (1)
+title : 따라하기 - Lottery DApp 만들기(1)
 ---
+
 
 # Lottery DApp 만들기 Tutorial - (1)
 Youtube 채널 'dapp campus'의 Lottery Dapp 개발하기 영상을 본 후 작성하였습니다.
