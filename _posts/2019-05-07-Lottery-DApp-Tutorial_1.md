@@ -3,13 +3,13 @@ layout: post
 title : 따라하기 - Lottery DApp 만들기(1)
 ---
 
->Youtube 채널 'dapp campus'의 Lottery Dapp 개발하기 영상을 본 후 작성하였습니다.
->영상에 훨씬 자세하고 많은 설명이 있으니 꼭 영상을 보시기 바랍니다!
-> [링크](https://www.youtube.com/playlist?list=PLlYCl1UOH8dheHS4vHOpPoHwq4Qi0R7WM&fbclid=IwAR1ViIiJhgetPaGBv_TDAZ60jL_VQO7PNNq6tNJS7anXfJNQy9VvAWLBxM0)
->> macOS 10.14.4 Mojave를 기준으로 합니다.
+Youtube 채널 'dapp campus'의 Lottery Dapp 개발하기 영상을 본 후 작성하였습니다.
+영상에 훨씬 자세하고 많은 설명이 있으니 꼭 영상을 보시기 바랍니다!
+[링크](https://www.youtube.com/playlist?list=PLlYCl1UOH8dheHS4vHOpPoHwq4Qi0R7WM&fbclid=IwAR1ViIiJhgetPaGBv_TDAZ60jL_VQO7PNNq6tNJS7anXfJNQy9VvAWLBxM0)
+>macOS 10.14.4 Mojave를 기준으로 합니다.
 
 ### 1. 개발 환경 세팅
-필수
+_필수_
 * node.js
 * vscode
 * truffle
@@ -54,7 +54,8 @@ contracts, migrations, test라는 디렉토리와 truffle-config.js라는 파일
 Migration.sol 파일의 solidity 버전을 그대로 가져와 복붙한다.
 contract 이름은 Lottery 이다.
 
-~~~~pragma solidity >=0.4.21 <0.6.0;
+~~~~
+pragma solidity >=0.4.21 <0.6.0;
 
 contract Lottery {
     
@@ -64,7 +65,8 @@ vscode 단축키
 New Terminal : control + shift + ₩
 
 ### 6. vscode 터미널에서 컴파일
-~~~~$ truffle compile
+~~~~
+$ truffle compile
 
 Compiling your contracts...
 ===========================
@@ -75,4 +77,6 @@ Compiling your contracts...
    - solc: 0.5.0+commit.1d4f565a.Emscripten.clang
 ~~~~   
 vscode에서 build 디렉토리가 새로 생성되고 그 안에 컴파일 된 컨트랙트의 정보가 담긴 json 파일이 생성된 것을 볼 수 있다.
+
+### 7. 
 
