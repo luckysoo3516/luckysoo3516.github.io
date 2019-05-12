@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 박수민 (Darcie)
+제 꿈은 멋있는 사람, 세상을 바꾸는 블록체인 어플리케이션 개발자
 
 ### More Information
-
-제 꿈은 멋있는 사람, 블록체인 어플리케이션 개발자
+Hnayng University
+소금라떼 / 아이스 아메리카노
+백반
