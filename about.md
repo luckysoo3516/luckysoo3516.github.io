@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### 박수민 (Darcie)
-제 꿈은 멋있는 사람, 세상을 바꾸는 블록체인 어플리케이션 개발자
+제 꿈은 멋있는 사람, 세상을 바꾸는 개발자
 
 ### More Information
 Hnayng University
