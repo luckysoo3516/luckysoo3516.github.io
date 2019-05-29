@@ -1,4 +1,4 @@
-﻿---
+---
 layout : post
 title : Daily-Report 웨일 사이드바앱 개발 (2)
 ---
@@ -66,6 +66,6 @@ title : Daily-Report 웨일 사이드바앱 개발 (2)
 #### 테스트
 whale://extensions/ 에 접속해 개발자모드를 ON하고 '압축해제된 확장프로그램을 로드합니다'를 클릭하여 작업하고 있던 디렉토리를 클릭합니다.
 사이드바 아이콘을 클릭하여 실행시킵니다.
-<이미지>
+![Result Screenshot](/images/Iteration_1_result.jpg)
 Iteration#1을 종료합니다.
 
