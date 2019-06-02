@@ -1,5 +1,6 @@
 ---
-
+layout : post
+title : 아무나 내 방의 불을 끌 수 있는 프로그램 Switch Anywhere (1)
 
 ---
 
