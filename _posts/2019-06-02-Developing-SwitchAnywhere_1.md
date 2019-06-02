@@ -3,8 +3,6 @@ layout : post
 title : 아무나 내 방의 불을 끌 수 있는 프로그램 Switch Anywhere (1)
 
 ---
-
-<h1 id="아무나-내-방의-불을-끌-수-있는-프로그램-switch-anywhere">아무나 내 방의 불을 끌 수 있는 프로그램 Switch Anywhere</h1>
 <p>드라마 &lt;빅뱅이론&gt;에 나온 농담에서 영감을 받아 만들었습니다.</p>
 <h3 id="이-프로그램을-사용하는-상황">이 프로그램을 사용하는 상황</h3>
 <p><em>Moonhyuk</em> : 제 방의 불을 끌 수 있는 사이트를 공개합니다! <a href="http://www.switchAnywhere.com">http://www.switchAnywhere.com</a> 여기 들어오셔서 아무나 버튼을 눌러보세요!<br>
